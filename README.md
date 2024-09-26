@@ -13,7 +13,7 @@ The course consists of 6 practical experiments, making it suitable for AI beginn
 
 ## Hacking 101 Material
 
-[Presentation]([https://hitcon.org/2023/CMT/slide/%E9%BA%8B%E9%B9%BF%E5%9C%A8%E8%8A%9D%E9%BA%BB%E8%A1%97%20-%20ELK%20x%20BERT%20%E8%B3%87%E5%AE%89%E5%88%86%E6%9E%90%E5%AF%A6%E6%88%B0.pdf](https://hitcon.org/2023/CMT/en/agenda/075dfac2-4dbc-4871-9ed6-e11052b31774/))
+[Presentation](https://hitcon.org/2023/CMT/agenda/075dfac2-4dbc-4871-9ed6-e11052b31774/)
 
 ## Friendly Link 
 
